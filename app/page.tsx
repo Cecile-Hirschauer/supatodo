@@ -2,13 +2,6 @@ export default async function Index() {
   return (
     <section className="space-y-6 pb-8 pt-6 md:pb-12 md:pt-10 lg:py-32">
       <div className="container flex max-w-[64rem] flex-col items-center gap-4 text-center">
-        <a
-          className="rounded-2xl bg-muted px-4 py-1.5 text-sm font-medium"
-          target="_blank"
-          href="https://www.youtube.com/@jollycoding"
-        >
-          🎞️ Follow on YouTube
-        </a>
         <h1 className="font-sans text-balance font-black text-3xl sm:text-5xl md:text-6xl lg:text-7xl">
           Next.js 14 Server Actions and Supabase / Auth.
         </h1>
